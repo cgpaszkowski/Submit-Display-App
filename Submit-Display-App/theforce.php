@@ -1,14 +1,4 @@
 <?php
-	
-	/*
-	 * This file is to be used as is - DO NOT MODIFY THE CONTENTS OF OR SOURCE CODE IN THIS FILE.
-	 *
-	 * Download this file into the "A2" folder on your computer and test to see 
-	 * if the comment posting and viewing functions work as described in the assignment
-	 * document.
-	 *
-	 */
-
 	/*
 	 * The content for this file has been generated through https://www.lipsum.com
 	 * on 02 February 2019.
