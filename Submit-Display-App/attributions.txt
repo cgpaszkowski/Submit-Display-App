@@ -1,0 +1,23 @@
+References:
+
+Assemany, G. Bootstrap Top navbar and Sidebar. Retrieved from https://codepen.io/assemany/pen/grJoyx
+
+Edwards, S. (2015). Blank profile picture mystery man. Retrieved from https://pixabay.com/en/blank-profile-picture-mystery-man-973460/
+
+Jobsen, B. (2013). Twitter's Bootstrap 3 Navbar Generator. Retrieved from http://twitterbootstrap3navbars.w3masters.nl/
+
+Otto, M. Thornton, J. (2018, December). Bootstrap. Retrieved from https://getbootstrap.com/
+
+Otto, M. Thornton, J. Forms. Retrieved from https://v4-alpha.getbootstrap.com/components/forms/
+
+Paletton. (2014). The Color Scheme Designer. Retrieved from http://paletton.com/#uid=13O0u0k6lhn35rU4Pme7JbJek8K
+
+Refsnes Data. (2019). Retrieved from https://www.w3schools.com/
+
+Roberts, B. (2015, June). Bootstrap Tutorial for Beginners - 1 - Introduction. Retrieved from https://www.youtube.com/watch?v=qIULMnbH2-o
+
+Stack Overflow. (2010). Remove excess whitespace from within a string. Retrieved from https://stackoverflow.com/questions/1703320/remove-excess-whitespace-from-within-a-string/17181283?fbclid=IwAR24omM2I04YQK7SpgfPfKnWJvr7InTAME1ZXR47fZAmfm6_lYZHVXsxhNk
+
+The PHP Group. (2019). PHP Manual. Retrieved from http://php.net/manual/en/language.operators.php
+
+
